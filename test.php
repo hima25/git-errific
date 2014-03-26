@@ -14,4 +14,5 @@ run();
 function run(){
     $name = "quandrei";
     echo "Hello $name, this is a git-errific tutorial\n";
+	echo "This is a modification to git-errific tutorial\n";
 }//END function run
